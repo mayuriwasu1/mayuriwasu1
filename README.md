@@ -1,6 +1,8 @@
 ## Hi, I am Mayuri! Nice to see you here!👋
 
-<a href="#"><img width="100%" height="auto" src="https://www.rawshorts.com/blog/wp-content/uploads/2019/02/How-to-Transform-Blog-Articles-into-Animated-Videos-in-X-Easy-Steps.jpg" height="75px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslSphlj8BckXNCGFacjxflayW8b1CEz12z1IcLNTWalQaXBfv-4F1rICEUdppyoZxDQ&usqp=CAU" height="75px"/></a>
+
+<!-- https://www.rawshorts.com/blog/wp-content/uploads/2019/02/How-to-Transform-Blog-Articles-into-Animated-Videos-in-X-Easy-Steps.jpg -->
 <!--
 **mayuriwasu1/mayuriwasu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
