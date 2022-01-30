@@ -1,5 +1,6 @@
 ## Hi, I am Mayuri! Nice to see you here!👋
 
+<a href="#"><img width="100%" height="auto" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/02/26172033/iStock-1212446133.jpg" height="175px"/></a>
 <!--
 **mayuriwasu1/mayuriwasu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
