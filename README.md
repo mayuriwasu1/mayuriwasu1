@@ -1,4 +1,5 @@
-## Hi, I am Mayuri! Nice to see you here!👋
+## Hi,👋 I am Mayuri!
+<!-- Nice to see you here! -->
 
 <a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslSphlj8BckXNCGFacjxflayW8b1CEz12z1IcLNTWalQaXBfv-4F1rICEUdppyoZxDQ&usqp=CAU" height="75px"/></a>
 
