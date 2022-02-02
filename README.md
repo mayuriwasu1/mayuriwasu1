@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 🌱 I’m currently learning ... MERN stack 
+<br/>
 📫 How to reach me: ... mayuriwasu200@gmail.com
 
 <!-- ## ⚡ Languages and Tools:
