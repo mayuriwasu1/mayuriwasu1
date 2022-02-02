@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mayuriwasu200@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+🌱 I’m currently learning ... MERN stack 
+📫 How to reach me: ... mayuriwasu200@gmail.com
 
 <!-- ## ⚡ Languages and Tools:
 
