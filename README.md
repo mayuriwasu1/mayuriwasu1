@@ -1,7 +1,44 @@
-## Hi,👋 I am Mayuri!
-<!-- Nice to see you here! -->
+## Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+---
 
-<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslSphlj8BckXNCGFacjxflayW8b1CEz12z1IcLNTWalQaXBfv-4F1rICEUdppyoZxDQ&usqp=CAU" height="75px"/></a>
+- 🔭 I’m currently working on MERN Stack
+<!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
+- 📫 How to reach me: ... mayuriwasu200@gmail.com
+<br>
+
+
+### :gear: My skills include:
+
+- **Languages**: `JavaScript`
+
+- **Web Technologies**: `Html`,`Css`, `js`,`react`, `express`,`node`
+
+- **Database Technologies**:  `MongoDB`
+
+
+- **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/),[LeetCode](https://leetcode.com/)
+
+
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuriwasu1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+<br>
+
+ 👨🏻‍💻 **Connect with me:**
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mayuri-wasu-b3b873194)](http://linkedin.com/in/mayuri-wasu-b3b873194)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here) 
+
+
+
+
+
+
+
+<!-- ## Hi,👋 I am Mayuri!
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslSphlj8BckXNCGFacjxflayW8b1CEz12z1IcLNTWalQaXBfv-4F1rICEUdppyoZxDQ&usqp=CAU" height="75px"/></a> -->
 
 <!-- https://www.rawshorts.com/blog/wp-content/uploads/2019/02/How-to-Transform-Blog-Articles-into-Animated-Videos-in-X-Easy-Steps.jpg -->
 <!--
@@ -15,9 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mayuriwasu200@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-🌱 I’m currently learning ... MERN stack 
+<!-- 🌱 I’m currently learning ... MERN stack 
 <br/>
-📫 How to reach me: ... mayuriwasu200@gmail.com
+📫 How to reach me: ... mayuriwasu200@gmail.com -->
 
 <!-- ## ⚡ Languages and Tools:
 
@@ -27,7 +64,7 @@ Here are some ideas to get you started:
 <!-- 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
  -->
- ## ⚡ Languages and Tools:
+<!--  ## ⚡ Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
@@ -57,4 +94,5 @@ Here are some ideas to get you started:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mayuri-wasu-b3b873194)](http://linkedin.com/in/mayuri-wasu-b3b873194)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here) 
+ -->
