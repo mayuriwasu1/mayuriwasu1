@@ -5,19 +5,20 @@
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 - 📫 How to reach me: ... mayuriwasu200@gmail.com
 <br>
-
+---
 
 ### :gear: My skills include:
 
 - **Languages**: `JavaScript`
 
-- **Web Technologies**: `Html`,`Css`, `js`,`react`, `express`,`node`
+- **Web Technologies**: `Html`, `Css`,  `js`, `react`, `express`, `node`
 
 - **Database Technologies**:  `MongoDB`
 
 
 - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/),[LeetCode](https://leetcode.com/)
 
+---
 
 <br>
 <p align="center">
@@ -25,12 +26,14 @@
 </p>
 <br>
 
+---
  👨🏻‍💻 **Connect with me:**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mayuri-wasu-b3b873194)](http://linkedin.com/in/mayuri-wasu-b3b873194)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here) 
 
+---
 
 
 
