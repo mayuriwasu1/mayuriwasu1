@@ -7,8 +7,7 @@
 
 
 ---
-<tr>
- <td>
+
 ### :gear: My skills include:
 
 - **Languages**: `JavaScript`
@@ -19,14 +18,7 @@
 
 
 - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/),[LeetCode](https://leetcode.com/)
-   </td>
- <p>
-<img src="https://school.mangoanimate.com/wp-content/uploads/2021/01/TDV_M184_02.png" />
-</p>
- <td>
   
- </td>
-</tr>
 ---
 
 <p align="center">
