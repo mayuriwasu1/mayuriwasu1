@@ -1,7 +1,8 @@
 ## Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 ---
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on React 
+- 🌱 I’m currently learning ... MERN stack 
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 - 📫 How to reach me: ... mayuriwasu200@gmail.com
 
