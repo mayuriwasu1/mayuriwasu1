@@ -28,14 +28,20 @@
 </p>
 
 ---
- 👨🏻‍💻 **Connect with me:**
 
+<!-- ### Reach me 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mayuri-wasu-b3b873194)](http://linkedin.com/in/mayuri-wasu-b3b873194)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here)  -->
 
 ---
 
+ 👨🏻‍💻 **Connect with me:**
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-wasu-b3b873194)
+[![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mayuriwasu2000) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sup_m_here)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
+<!-- <a href="mayuriwasu2000@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 
 
 
