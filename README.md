@@ -12,12 +12,12 @@
 
 - **Languages**: `JavaScript`
 
-- **Front End**: `Html`, `Css`,  `js`, `react`, `Npm`
+- **Front End**: `HTML`, `CSS`,  `JavaScript`, `React`, `Npm`
 
-- **Back End**:  `MongoDB`, `express js`, `node js` , `Postman`
+- **Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
 
 
-- **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/),[LeetCode](https://leetcode.com/)
+- **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/)
   
 ---
 
