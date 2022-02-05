@@ -2,8 +2,8 @@
 ---
 
 - 🔭 I’m currently working on React 
-- 🌱 I’m currently learning ... MERN stack 
-- 📫 How to reach me: ... mayuriwasu200@gmail.com
+- 🌱 I’m currently learning MERN stack 
+- 📫 How to reach me:mayuriwasu200@gmail.com
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 
 
