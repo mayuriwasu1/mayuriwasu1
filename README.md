@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning MERN stack 
-- 📫 How to reach me:mayuriwasu200@gmail.com
+- 📫 How to reach me: mayuriwasu200@gmail.com
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
-
-
 
 ---
 
@@ -14,9 +12,9 @@
 
 - **Languages**: `JavaScript`
 
-- **Web Technologies**: `Html`, `Css`,  `js`, `react`, `express`, `node`
+- **Front End**: `Html`, `Css`,  `js`, `react`, `Npm`
 
-- **Database Technologies**:  `MongoDB`
+- **Back End**:  `MongoDB`, `express js`, `node js` , `Postman`
 
 
 - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/),[LeetCode](https://leetcode.com/)
@@ -44,7 +42,7 @@
 <!-- [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com) -->
        
  👨🏻‍💻 **Connect with me:**
-<p> <a href="https://twitter.com/sup_m_here" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mayuri-wasu-b3b873194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mayuriwasu2000" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mayuriwasu2000@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p> <a href="https://twitter.com/sup_m_here" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mayuri-wasu-b3b873194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mayuriwasu2000" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 </p>
 
 
