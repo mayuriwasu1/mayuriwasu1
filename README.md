@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+# Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="40"> 
 ---
 
 - 🔭 I’m currently working on React 
