@@ -6,7 +6,6 @@
 - 📫 How to reach me: mayuriwasu200@gmail.com
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 
----
 
 ### :gear: My skills include:
 
