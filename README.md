@@ -2,7 +2,9 @@
 ---
 
 🔹 🔭 I’m currently working on React 
+<Br/>
 🔹 🌱 I’m currently learning MERN stack 
+<Br/>
 🔹 📫 How to reach me: mayuriwasu200@gmail.com
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 
@@ -16,7 +18,7 @@
  🔹**Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
 
 
-- **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/)
+ 🔹 **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/)
   
 ---
 
