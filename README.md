@@ -9,11 +9,11 @@
 
 ### :gear: My skills include:
 
- -**Languages**: `JavaScript`
+- **Languages**: `JavaScript`
 
- -**Front End**: `HTML`, `CSS`,  `JavaScript`, `React`, `Npm`
+- **Front End**: `HTML`, `CSS`,  `JavaScript`, `React`, `Npm`
 
- -**Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
+- **Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
 
 
  - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/)
