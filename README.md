@@ -1,4 +1,6 @@
 ## Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="30"> 
+
+A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
 ---
 
  - 🔭 I’m currently working on React 
