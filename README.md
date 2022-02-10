@@ -26,8 +26,8 @@
 </p>
 
 ---
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayuriwasu1&label=Profile%20views&color=0e75b6&style=flat" alt="me" /> </p>
+<!-- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayuriwasu1&label=Profile%20views&color=0e75b6&style=flat" alt="me" /> </p> -->
 
 <!-- ### Reach me 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayuriwasu2000@gmail.com)](mailto:mayuriwasu2000@gmail.com)
