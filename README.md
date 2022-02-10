@@ -16,7 +16,7 @@
 - **Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
 
 
- - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/)
+<!--  - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/) -->
   
 ---
 
