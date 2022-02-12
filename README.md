@@ -2,7 +2,7 @@
 #### A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
  - 🔭 I’m currently working on React 
  - 🌱 I’m currently learning MERN stack 
