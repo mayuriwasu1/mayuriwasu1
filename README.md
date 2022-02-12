@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Mayuri <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="30"> 
 #### A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
 ---
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img height="280" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
 
  - 🔭 I’m currently working on React 
  - 🌱 I’m currently learning MERN stack 
