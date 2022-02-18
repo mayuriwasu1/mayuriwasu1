@@ -1,9 +1,10 @@
-  <p align="center">   Hi 👋, I'm Mayuri
+  <h2 align="center">   Hi 👋, I'm Mayuri
+  </h2>
 
 <!-- <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="30">  -->
-
-###### A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
-   </p>
+  <h4 align="center"> 
+ A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
+  </h4>
    
 ---
 <img height="280" width="300" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
