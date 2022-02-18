@@ -7,7 +7,7 @@
   </h4>
    
 ---
-<img height="280" width="300" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+<img height="260" width="280" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
 <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
 
  - 🔭 I’m currently working on React 
