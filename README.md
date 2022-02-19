@@ -2,9 +2,9 @@
   </h2>
 
 <!-- <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="30">  -->
-  <h4 align="center"> 
- A passionate Developer, with good attention to detail and with the ability to write efficient code using MERN Stack.
-  </h4>
+ 
+ `A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.`
+
    
 ---
 <img height="260" width="280" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
