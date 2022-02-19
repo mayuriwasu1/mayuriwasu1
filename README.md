@@ -1,9 +1,9 @@
-  <h2 align="center">   Hi 👋, I'm Mayuri
-  </h2>
+  <h2 align="center">   Hi 👋, I'm Mayuri  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="20">  </h2>
 
-<!-- <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="30">  -->
+
+
  
- `A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.`
+ `A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and leverage them to solve real-life problems.`
 
    
 ---
@@ -13,6 +13,7 @@
  - 🔭 I’m currently working on React 
  - 🌱 I’m currently learning MERN stack 
  - 📫 How to reach me: mayuriwasu200@gmail.com
+<!--  - 🔗 My portfolio :  -->
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
 
 
