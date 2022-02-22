@@ -1,4 +1,4 @@
-  <h2 align="center">   Hi 👋, I'm Mayuri  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="20">  </h2>
+  <h2 align="center">   Hi 👋, I'm Mayuri  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="25">  </h2>
 
 
 
@@ -21,9 +21,9 @@
 
 - **Languages**: `JavaScript`
 
-- **Front End**: `HTML`, `CSS`,  `JavaScript`, `React`, `Npm`
+- **Front End**: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Npm`  
 
-- **Back End**:  `MongoDB`, `express Js`, `node Js` , `Postman`
+- **Back End**:  `MongoDB`, `Express.js`, `Node.js`, `Postman`
 
 
 <!--  - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/) -->
