@@ -1,4 +1,4 @@
-  <h2 align="center">   Hi 👋, I'm Mayuri  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="25">  </h2>
+  <h1 align="center">   Hi 👋, I'm Mayuri  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="25">  </h1>
 
 
 
@@ -25,8 +25,8 @@
 
 - **Back End**:  `MongoDB`, `Express.js`, `Node.js`, `Postman`
 
+- **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/mayuriwasu2000?hr_r=1) , [LeetCode](https://leetcode.com/mayuriwasu_23/) 
 
-<!--  - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/) , [LeetCode](https://leetcode.com/) -->
 <br/>
   
 ---
