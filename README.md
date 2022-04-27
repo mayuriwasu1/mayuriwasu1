@@ -27,13 +27,12 @@
 
 - **Programming Profiles** :  [HackerRank](https://www.hackerrank.com/mayuriwasu2000?hr_r=1) , [LeetCode](https://leetcode.com/mayuriwasu_23/) 
 
-<br/>
+<!-- <br/>
   
----
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuriwasu1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 
 
