@@ -6,7 +6,7 @@
  `A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and leverage them to solve real-life problems.`
 
    
----
+
 <!-- <img height="260" width="280" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
 <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
 
