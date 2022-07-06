@@ -21,7 +21,7 @@
 
 - **Languages**: `JavaScript`
 
-- **Front End**: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Npm`  
+- **Front End**: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Npm `  
 
 - **Back End**:  `MongoDB`, `Express.js`, `Node.js`, `Postman` -->
 
