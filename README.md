@@ -3,7 +3,7 @@
 
 
 
-    `Passionate Front-End Developer 💻`
+`Passionate Front-End Developer 💻`
  </br>
 `✨ Transforming Ideas into Interactive Experiences | 2+ Years of Expertise 🌐`
 </br>
