@@ -3,8 +3,9 @@
 
 
  
- `A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and leverage them to solve real-life problems.`
-
+ `Passionate Front-End Developer 💻`
+`✨ Transforming Ideas into Interactive Experiences | 2+ Years of Expertise 🌐`
+`As a dedicated front-end developer, I specialize in building dynamic and user-friendly web applications using cutting-edge technologies. With a strong foundation in React.js, HTML, CSS, and JavaScript, I bring a creative and detail-oriented approach to every project.`
    
 
 <!-- <img height="260" width="280" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
