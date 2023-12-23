@@ -2,13 +2,15 @@
 
 
 
- 
- `Passionate Front-End Developer 💻`
+ <div align="center">
+    `Passionate Front-End Developer 💻`
  </br>
 `✨ Transforming Ideas into Interactive Experiences | 2+ Years of Expertise 🌐`
 </br>
 `As a dedicated front-end developer, I specialize in building dynamic and user-friendly web applications using cutting-edge technologies. With a strong foundation in React.js, HTML, CSS, and JavaScript, I bring a creative and detail-oriented approach to every project.`
-   
+ 
+ </div>
+  
 
 <!-- <img height="260" width="280" align="right" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
 <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
